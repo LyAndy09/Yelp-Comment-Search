@@ -6,10 +6,10 @@ The project is a way of assessing a local business for a specific item and verif
 For example, if I wanted to look for a "Lavender iced latte" local to me through yelp, there isn't a gaurantee that the results will have what i'm looking for.
 Instead, Yelp will return a general search of coffee and will occasionally show a review highlighting the searched term.
 
-<img src = "yelp.jpg" alt = "yelp search results" title = "Yelp results" width = "600" height = "600" display = "inline-block" />
+<img src = "yelp.jpg" alt = "yelp search results" title = "Yelp results" width = "750" height = "600" display = "inline-block" />
 
 Here is what the program will execute:
-<img src = "results.jpg" alt = "yelp search results" title = "Yelp results" width = "600" height = "600" display = "inline-block" />
+<img src = "results.jpg" alt = "yelp search results" title = "Yelp results" width = "800" height = "400" display = "inline-block" />
 
 ### This project notably uses:
 * BeautifulSoup to scrape comments
@@ -22,4 +22,3 @@ Here is what the program will execute:
 * Use BeautifulSoup4 to scrape every review for each business #Currently able to get the reviews from the main business page
 * Allow the user to search without the use of Yelp's API
 * Optimize BeautifulSoup time to return results
-![results](https://user-images.githubusercontent.com/96896728/198159847-8d366883-9f5d-4f80-8a4f-e3b74a425861.jpg)
