@@ -11,3 +11,4 @@ Yelp will return a general search of coffee and will occasionally show a review 
     alt="Picture of Yelp's search results with searched term = "lavender iced latte"
     title="Yelp Search Results"
     style="display: inline-block, margin: 0 auto; max-widgth: 300px"
+    >
