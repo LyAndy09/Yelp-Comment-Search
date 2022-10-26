@@ -6,10 +6,10 @@ The project is a way of assessing a local business for a specific item and verif
 For example, if I wanted to look for a "Lavender iced latte" local to me through yelp, there isn't a gaurantee that the results will have what i'm looking for.
 Instead, Yelp will return a general search of coffee and will occasionally show a review highlighting the searched term.
 
-<img src = "yelp.jpg" alt = "yelp search results" title = "Yelp results" width = "750" height = "600" display = "inline-block" />
+<img src = "yelp.jpg" alt = "yelp search results" title = "Yelp results" width = "900" height = "750" display = "inline-block" />
 
 Here is what the program will execute:
-<img src = "results.jpg" alt = "yelp search results" title = "Yelp results" width = "800" height = "400" display = "inline-block" />
+<img src = "results.jpg" alt = "yelp search results" title = "Yelp results" width = "1000" height = "400" display = "inline-block" />
 
 ### This project notably uses:
 * BeautifulSoup to scrape comments
