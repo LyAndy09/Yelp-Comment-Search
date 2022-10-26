@@ -16,5 +16,5 @@ Yelp will return a general search of coffee and will occasionally show a review 
 
 
 #### To-do / Planned ideas
-*Use BeautifulSoup4 to scrape every review for each business #Currently able to get the reviews from the main business page
-*Allow the user to search without the use of Yelp's API
+* Use BeautifulSoup4 to scrape every review for each business #Currently able to get the reviews from the main business page
+* Allow the user to search without the use of Yelp's API
