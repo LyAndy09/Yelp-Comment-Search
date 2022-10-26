@@ -9,7 +9,8 @@ Instead, Yelp will return a general search of coffee and will occasionally show 
 <img src = "yelp.jpg" alt = "yelp search results" title = "Yelp results" width = "600" height = "600" display = "inline-block" />
 
 Here is what the program will execute:
-<img src = 
+<img src = "results.jpg" alt = "yelp search results" title = "Yelp results" width = "600" height = "600" display = "inline-block" />
+
 ### This project notably uses:
 * BeautifulSoup to scrape comments
 * Yelp-Fusion-Api to get: Business URLs, Limit of businesses to search, Location.
@@ -21,3 +22,4 @@ Here is what the program will execute:
 * Use BeautifulSoup4 to scrape every review for each business #Currently able to get the reviews from the main business page
 * Allow the user to search without the use of Yelp's API
 * Optimize BeautifulSoup time to return results
+![results](https://user-images.githubusercontent.com/96896728/198159847-8d366883-9f5d-4f80-8a4f-e3b74a425861.jpg)
