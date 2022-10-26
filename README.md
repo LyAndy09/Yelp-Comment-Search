@@ -9,4 +9,4 @@ Yelp will return a general search of coffee and will occasionally show a review 
     src="yelp.jpg"
     alt="Picture of Yelp's search results with searched term"
     title="Yelp Search Results"
-    style="display: "inline-block"; margin: "0 auto"; max-width: "100"; max-height: "100"">
+    style="margin: 0 auto; max-width: 100; max-height: 100">
