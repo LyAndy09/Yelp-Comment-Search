@@ -3,7 +3,7 @@
 ## A work in progress, allows the user to search local business's comments for a specific phrase.
 NOTE: NEEDS YELP-FUSION API KEY TO USE
 
-The purpose of this program is to assess a local businesses for a specific item and verifying the eexistence through its reviews.
+The purpose of this program is to assess a local businesses for a specific item and verifying the existence through reviews of each associated business.
 For example, if I wanted to look for a "Lavender iced latte" local to me through yelp, there isn't a gaurantee that the results will have what i'm looking for.
 Instead, Yelp will return a general search of coffee and will occasionally show a review highlighting the searched term.
 
