@@ -6,7 +6,7 @@ NOTE: NEEDS YELP-FUSION API KEY TO USE
 The purpose of this program is to assess a local businesses for a specific item and verifying the existence through reviews of each associated business.
 For example, if I wanted to look for a "Lavender iced latte" through Yelp, there isn't a gaurantee their results will have what I searched for.
 Instead, Yelp will return a general search for coffee and will occasionally return a review that features "Lavender Iced Latte"
-This program is meant to eliminate the wasted time of finding such occasional review and instead allows you to decide what to eat!
+This program is meant to eliminate the wasted time of finding such occasional review and instead, you can decide what to eat!
 
 <img src = "yelp.jpg" alt = "yelp search results" title = "Yelp results" width = "900" height = "600" display = "inline-block" />
 
