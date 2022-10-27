@@ -11,6 +11,7 @@ This program is meant to eliminate the wasted time of finding such occasional re
 <img src = "yelp.jpg" alt = "yelp search results" title = "Yelp results" width = "900" height = "600" display = "inline-block" />
 
 Here is what the program will execute:
+
 (green is user input)
 <img src = "results.jpg" alt = "program results" title = "program results" width = "1000" height = "400" display = "inline-block" />
 
